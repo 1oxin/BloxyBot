@@ -1,6 +1,7 @@
 # BloxyBot
 *A shitty automated fake bot for BloxyBet PS99*
 
+# SCRIPT AUTO GETS TRADE ID THE TEXT BOX IS OLD AND CAN BE IGNORED
 
 **Acier plans to add fake bot detection to his site soon so I'm making this public, also DuxV2 & MrFeast have been running this making money and I don't like that 😡**
 
